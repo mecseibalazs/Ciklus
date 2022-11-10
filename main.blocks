@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Xu#)yz.M-~~=ot640w4e">SZAM</variable><variable id="DZ(;0S(eUGFR:xPIiz!4">SZAM2</variable><variable id="IbvUs8WL`jWe~yAx8$^Z">kecske</variable><variable id=")5@Il)SUo1QaKZKTd=(#">list</variable><variable id="w|fIvCcFtklI_uJhNUf#">érték</variable></variables><block type="device_forever" id="zAp(!yG3uFCNq((o`,nU" x="0" y="0"></block><block type="device_show_leds" id="Nrkb]gL.i(jj@]qSfVi$" disabled="true" x="762" y="-8"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="#PpFq;E??ua/tD=bURj4" disabled="true"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . # . . . 
+        # # . . .
+        `</field><next><block type="device_show_leds" id="I^3~Q_/R;BE02`-:H@I`" disabled="true"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # # . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="AZjn.V|b+a?jht~evsoY" disabled="true"><field name="LEDS">`
+        . . . . . 
+        . . . # . 
+        . . # # . 
+        . # # # . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="?iJ18KwON-;Y?=]GEd9i" disabled="true"><field name="LEDS">`
+        . . . . # 
+        . . . # # 
+        . . # # # 
+        . # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></next></block></xml>
